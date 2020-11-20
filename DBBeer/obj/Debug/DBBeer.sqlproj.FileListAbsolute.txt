@@ -1,0 +1,10 @@
+C:\Users\riche\source\repos\Beer\DBBeer\bin\Debug\DBBeer.dacpac
+C:\Users\riche\source\repos\Beer\DBBeer\bin\Debug\DBBeer.dll
+C:\Users\riche\source\repos\Beer\DBBeer\bin\Debug\DBBeer.pdb
+C:\Users\riche\source\repos\Beer\DBBeer\obj\Debug\DBBeer.dll
+C:\Users\riche\source\repos\Beer\DBBeer\obj\Debug\DBBeer.pdb
+C:\Users\riche\source\repos\Beer\DBBeer\obj\Debug\Model.xml
+C:\Users\riche\source\repos\Beer\DBBeer\obj\Debug\refactor.xml
+C:\Users\riche\source\repos\Beer\DBBeer\obj\Debug\postdeploy.sql
+C:\Users\riche\source\repos\Beer\DBBeer\obj\Debug\predeploy.sql
+C:\Users\riche\source\repos\Beer\DBBeer\obj\Debug\DBBeer.sqlprojAssemblyReference.cache

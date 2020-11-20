@@ -1,0 +1,7 @@
+﻿CREATE PROCEDURE [dbo].[GetBeerById]
+	@Id INT
+AS
+BEGIN
+	SELECT * FROM Beer 
+	WHERE Beer.Id = @Id
+END

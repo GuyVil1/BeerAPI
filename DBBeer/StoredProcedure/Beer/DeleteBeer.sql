@@ -1,0 +1,6 @@
+﻿CREATE PROCEDURE [dbo].[DeleteBeer]
+	@Id INT
+AS
+BEGIN
+	DELETE FROM Beer WHERE Id = @Id
+END

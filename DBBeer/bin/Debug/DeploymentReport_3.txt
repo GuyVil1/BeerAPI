@@ -1,0 +1,42 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[Beer] (Table)
+       [dbo].[Brand] (Table)
+       [dbo].[Ingredient] (Table)
+       [dbo].[IngredientBeer] (Table)
+       [dbo].[User] (Table)
+       [dbo].[FK_Beer_Brand] (Clé étrangère)
+       [dbo].[FK_IngredientBeer_Beer] (Clé étrangère)
+       [dbo].[FK_IngredientBeer_Ingredient] (Clé étrangère)
+       [dbo].[AddBeer] (Procédure)
+       [dbo].[AddBrand] (Procédure)
+       [dbo].[AddIngredient] (Procédure)
+       [dbo].[AddUser] (Procédure)
+       [dbo].[DeleteBeer] (Procédure)
+       [dbo].[DeleteBrand] (Procédure)
+       [dbo].[DeleteIngredient] (Procédure)
+       [dbo].[DeleteUser] (Procédure)
+       [dbo].[GetAllBeer] (Procédure)
+       [dbo].[GetAllBrand] (Procédure)
+       [dbo].[GetAllIngredient] (Procédure)
+       [dbo].[GetAllUser] (Procédure)
+       [dbo].[GetBeerById] (Procédure)
+       [dbo].[GetBrandById] (Procédure)
+       [dbo].[GetIngredientById] (Procédure)
+       [dbo].[GetUserById] (Procédure)
+       [dbo].[UpdateBeer] (Procédure)
+       [dbo].[UpdateBrand] (Procédure)
+       [dbo].[UpdateIngredient] (Procédure)
+       [dbo].[UpdateUser] (Procédure)
+
+** Actions de support
